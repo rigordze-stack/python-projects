@@ -12,15 +12,6 @@ Realiza operaciones básicas como:
 Es ideal para preparar datos antes de análisis o cargas a bases de datos.
 
 ---
-
-## Estructura del Proyecto
-002-csvCleaner/
-├── csv_cleaner.py # Script principal de limpieza CSV
-├── data/
-│ ├── raw.csv # Archivo CSV original con datos sin limpiar
-│ └── clean.csv # Archivo CSV generado con datos limpios
-└── README.md # Documentación del 
-
 ## Autor
 Rigoberto Rodríguez
 Full Stack .NET Developer 
