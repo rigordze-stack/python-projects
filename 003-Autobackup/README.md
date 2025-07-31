@@ -61,4 +61,4 @@ Full Stack .NET Developer
 
 - 📧 **rigordze@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rigoberto-rodriguez-dev/)
-- 💻 [GitHub]([https://github.com/rigordze-stack](https://github.com/rigordze-stack/rigordze-stack))
+- 💻 [GitHub](https://github.com/rigordze-stack/rigordze-stack)
