@@ -1,17 +1,19 @@
-# FileSorter 🗂️
+# AutoBackup - Respaldo Incremental con Python
 
-Scripts para organizar archivos:
-- `filesorter.py`: agrupa por extensión (crea carpetas `pdf_files/`, `jpg_files/`…).
-- `filesorter_by_type.py`: agrupa por tipo (Imágenes, Documentos, Audio, Video, Comprimidos, Código u Otros).
+## Descripción
+
+AutoBackup es un script en Python que realiza respaldos incrementales de una carpeta origen a una carpeta destino.  
+Copia únicamente los archivos nuevos o modificados desde la última ejecución, optimizando espacio y tiempo.  
+Registra logs detallados de la ejecución para seguimiento y auditoría.
+
+---
 
 ## Uso
-1. Edita la ruta en el archivo (`folder_path`).
-2. Ejecuta: `python filesorter.py` o `python filesorter_by_type.py`
-3. Primero prueba con una carpeta de prueba.
 
-## Notas
-- No sobrescribe archivos: crea `nombre (1).ext`, `nombre (2).ext` si ya existe.
-- Ignora subcarpetas (solo mueve archivos del directorio raíz).
+1. Crear las carpetas `data/origen` y `data/backup` con los archivos que quieres respaldar.  
+2. Ejecutar el script desde la carpeta raíz del proyecto
+
+---
 
 ## Autor
 <p align="center">

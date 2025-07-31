@@ -1,17 +1,9 @@
-# FileSorter 🗂️
+# Proyectos de Python
 
-Scripts para organizar archivos:
-- `filesorter.py`: agrupa por extensión (crea carpetas `pdf_files/`, `jpg_files/`…).
-- `filesorter_by_type.py`: agrupa por tipo (Imágenes, Documentos, Audio, Video, Comprimidos, Código u Otros).
+Este repositorio contiene una serie de proyectos prácticos de Python que estoy desarrollando como parte de un curso intensivo y formación profesional.  
+Cada proyecto aborda conceptos y herramientas fundamentales de Python, con código documentado y documentación detallada para facilitar el aprendizaje y la aplicación real.
 
-## Uso
-1. Edita la ruta en el archivo (`folder_path`).
-2. Ejecuta: `python filesorter.py` o `python filesorter_by_type.py`
-3. Primero prueba con una carpeta de prueba.
-
-## Notas
-- No sobrescribe archivos: crea `nombre (1).ext`, `nombre (2).ext` si ya existe.
-- Ignora subcarpetas (solo mueve archivos del directorio raíz).
+---
 
 ## Autor
 <p align="center">

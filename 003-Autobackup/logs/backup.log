@@ -1,0 +1,12 @@
+2025-07-31 09:00:17,427 - INFO - Inicio del respaldo incremental
+2025-07-31 09:01:45,808 - INFO - Inicio del respaldo incremental
+2025-07-31 09:52:00,933 - INFO - Inicio del respaldo incremental
+2025-07-31 09:58:35,522 - INFO - Inicio del respaldo incremental
+2025-07-31 09:58:35,527 - INFO - Archivo copiado: data\origen\Doc1.txt a data\backup\Doc1.txt
+2025-07-31 09:58:35,527 - INFO - Respaldo finalizado
+2025-07-31 09:59:24,885 - INFO - Inicio del respaldo incremental
+2025-07-31 09:59:24,887 - INFO - Archivo copiado: data\origen\Doc1.txt a data\backup\Doc1.txt
+2025-07-31 09:59:24,887 - INFO - Respaldo finalizado
+2025-07-31 09:59:45,439 - INFO - Inicio del respaldo incremental
+2025-07-31 09:59:45,442 - INFO - Archivo copiado: data\origen\Doc2.txt a data\backup\Doc2.txt
+2025-07-31 09:59:45,442 - INFO - Respaldo finalizado
