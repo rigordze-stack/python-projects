@@ -17,7 +17,9 @@ Registra logs detallados de la ejecución para seguimiento y auditoría.
 
 ## Autor
 <p align="center">
-Rigoberto Rodríguez
+Rigoberto Rodríguez 
+</p>
+<p align="center">
 Full Stack .NET Developer 
 </p>
 
