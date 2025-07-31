@@ -1,13 +1,15 @@
 # Proyectos de Python
 
-Este repositorio contiene una serie de proyectos prácticos de Python que estoy desarrollando como parte de un curso intensivo y formación profesional.  
+Este repositorio contiene una serie de proyectos prácticos de Python que estoy desarrollando como parte de una formación profesional.  
 Cada proyecto aborda conceptos y herramientas fundamentales de Python, con código documentado y documentación detallada para facilitar el aprendizaje y la aplicación real.
 
 ---
 
 ## Autor
 <p align="center">
-Rigoberto Rodríguez
+Rigoberto Rodríguez 
+</p>
+<p align="center">
 Full Stack .NET Developer 
 </p>
 
@@ -51,4 +53,4 @@ Full Stack .NET Developer
 
 - 📧 **rigordze@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rigoberto-rodriguez-dev/)
-- 💻 [GitHub]([https://github.com/rigordze-stack](https://github.com/rigordze-stack/rigordze-stack))
+- 💻 [GitHub](https://github.com/rigordze-stack/rigordze-stack)

@@ -14,7 +14,9 @@ Es ideal para preparar datos antes de análisis o cargas a bases de datos.
 ---
 ## Autor
 <p align="center">
-Rigoberto Rodríguez
+Rigoberto Rodríguez 
+</p>
+<p align="center">
 Full Stack .NET Developer 
 </p>
 
@@ -58,4 +60,4 @@ Full Stack .NET Developer
 
 - 📧 **rigordze@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rigoberto-rodriguez-dev/)
-- 💻 [GitHub]([https://github.com/rigordze-stack](https://github.com/rigordze-stack/rigordze-stack))
+- 💻 [GitHub](https://github.com/rigordze-stack/rigordze-stack)

@@ -17,7 +17,9 @@ Registra logs detallados de la ejecución para seguimiento y auditoría.
 
 ## Autor
 <p align="center">
-Rigoberto Rodríguez
+Rigoberto Rodríguez 
+</p>
+<p align="center">
 Full Stack .NET Developer 
 </p>
 
@@ -61,4 +63,4 @@ Full Stack .NET Developer
 
 - 📧 **rigordze@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rigoberto-rodriguez-dev/)
-- 💻 [GitHub]([https://github.com/rigordze-stack](https://github.com/rigordze-stack/rigordze-stack))
+- 💻 [GitHub](https://github.com/rigordze-stack/rigordze-stack)
