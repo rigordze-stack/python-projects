@@ -14,7 +14,9 @@ Es ideal para preparar datos antes de análisis o cargas a bases de datos.
 ---
 ## Autor
 <p align="center">
-Rigoberto Rodríguez
+Rigoberto Rodríguez 
+</p>
+<p align="center">
 Full Stack .NET Developer 
 </p>
 
