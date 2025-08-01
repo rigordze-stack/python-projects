@@ -20,13 +20,14 @@ py -m pip install pandas jinja2 schedule
 # Estructura esperada
 
 008-AutoReporter/
-├── auto_report.py            # Script principal con la lógica automatizada
+├── auto_report.py           # Script principal con la lógica automatizada
 ├── templates/
-│   └── report.html           # Plantilla HTML base para el reporte
+│   └── report.html          # Plantilla HTML base para el reporte
 ├── data/
-│   └── sales.csv             # Datos de ejemplo (opcional)
+│   └── sales.csv            # Datos de ejemplo (opcional)
 └── out/
-    └── report_<fecha>.html   # Reporte generado automáticamente
+    └── report_*.html        # Reporte generado automáticamente
+
 
 # Ejecución
 1.- Asegúrate de que tu archivo sales.csv se encuentre en data/sales.csv.
