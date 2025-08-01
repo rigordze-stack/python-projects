@@ -28,7 +28,7 @@ py -m pip install pandas jinja2 schedule
 │   └── sales.csv            # Datos de ejemplo (opcional)
 └── out/
     └── report_*.html        # Reporte generado automáticamente
-
+``` 
 
 # Ejecución
 1.- Asegúrate de que tu archivo sales.csv se encuentre en data/sales.csv.
