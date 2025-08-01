@@ -1,0 +1,13 @@
+id,fecha,categoria,ventas
+1,2024-01-01,Electrónica,1000
+2,2024-01-01,Ropa,750
+3,2024-01-01,Alimentos,500
+4,2024-01-02,Electrónica,1100
+5,2024-01-02,Ropa,
+6,2024-01-02,Alimentos,520
+7,2024-01-03,Electrónica,1150
+8,2024-01-03,Ropa,770
+9,2024-01-03,Alimentos,NaN
+10,2024-01-04,Electrónica,900
+11,2024-01-04,Ropa,820
+12,2024-01-04,Alimentos,480
