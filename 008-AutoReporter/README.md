@@ -19,6 +19,7 @@ py -m pip install pandas jinja2 schedule
 
 # Estructura esperada
 
+```plaintext
 008-AutoReporter/
 ├── auto_report.py           # Script principal con la lógica automatizada
 ├── templates/
