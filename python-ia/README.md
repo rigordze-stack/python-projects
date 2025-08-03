@@ -2,7 +2,7 @@
 
 Python para dominar las bases aplicadas a Inteligencia Artificial (IA). Está enfocado en desarrolladores que desean aplicar Python en proyectos reales de análisis de datos, machine learning, automatización e inteligencia artificial, construyendo mini-proyectos funcionales y documentados que pueden formar parte de su portafolio profesional en GitHub.
 
-## 🗓️ Estructura del Curso
+## 🗓️ Estructura
 
 - 📚 Teoría esencial (con explicaciones claras)
 - 🛠️ Herramientas clave (librerías y comandos)
