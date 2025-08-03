@@ -1,4 +1,4 @@
-# 🧠 Model Tuner – Día 3 del curso intensivo de IA con Python
+# 🧠 Model Tuner
 
 Este mini-proyecto compara el rendimiento de dos algoritmos de clasificación usando validación cruzada y métricas clave.
 
