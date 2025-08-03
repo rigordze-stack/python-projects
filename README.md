@@ -2,10 +2,8 @@
 
 Bienvenido a mi repositorio de proyectos desarrollados en **Python**, enfocados en el aprendizaje práctico y aplicación profesional de tecnologías actuales. Están organizados en subcarpetas según el enfoque principal: **Ciencia de Datos**, **Inteligencia Artificial**, y más.
 
----
-
 ## 📂 Estructura del repositorio
-
+````
 projects/
 │
 ├── ciencia_de_datos/
@@ -13,7 +11,7 @@ projects/
 ├── ia/
 │ └── ...
 └── README.md
-
+````
 ---
 
 ## 🧠 Categorías de proyectos
