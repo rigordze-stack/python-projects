@@ -1,4 +1,4 @@
-# Proyectos de Python
+# Python Ciencia de datos
 
 Este repositorio contiene una serie de proyectos prácticos de Python que estoy desarrollando como parte de una formación profesional.  
 Cada proyecto aborda conceptos y herramientas fundamentales de Python, con código documentado y documentación detallada para facilitar el aprendizaje y la aplicación real.
